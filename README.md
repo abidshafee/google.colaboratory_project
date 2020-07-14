@@ -9,3 +9,5 @@ ________________________________________________________________________________
 ![screan](https://github.com/abidshafee/google.colaboratory_projects/blob/master/EURESD%20price_Prediction_model.png)
 
 ------------------------------------ END Description of FIRST-PROJECT ----------------------------------
+
+## Description : Project-Two: Price-Prediction Model using SVM and LR
